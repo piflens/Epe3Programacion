@@ -24,7 +24,7 @@ Este es un proyecto  de una pagina web usando b4, php y mysql el cual se realizo
 Dentro de la carpeta epe3 encontrará la página todo se debe de mover a la carpeta de htdocs del XAMPP de nuestro equipo en caso de ser de forma local, o si es un host en este caso 000webhot debe de guardarse en public html utilizando el servidor ftp de FileZilla para no tener inconvenientes. Un vez movidos los archivos respectivos dentro de epe3 se encuentra una carpeta llamada bd la cual cuenta con la base de datos que se debe de importar en nuestro XAMPP de forma local dentro de una base de datos la cual debemos de llamar epe3 o del host que en este caso el nombre de tu base de datos te la dará el hosting y se requerirá de cambiar el archivo conexion.php login.php loginadmin.php ya que estos están trabajando bajo el root y de name epe3.
 
 Para entrar como administrador
-correo=felipe@gmail.com
+correo="felipe@gmail.com"
 password="123"
 
 # Visitenos 
