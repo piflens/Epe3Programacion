@@ -48,7 +48,7 @@ echo"<!doctype html>
 	<div class='modal-footer bg-warning justify-content-center'>
 	<form method='post' action='login.html'>
 
-	<a href='index.html'><button type='button' class='btn btn-success' data-dismiss='modal'>Volver</button></a>
+	<a href='registrarServicio.html.html'><button type='button' class='btn btn-success' data-dismiss='modal'>Volver</button></a>
 	</div>
 </div>
 </div>";
