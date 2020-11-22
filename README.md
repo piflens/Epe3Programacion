@@ -5,7 +5,7 @@
 3.[Instalacion]
 # Información General
 ***
-Este es un proyecto  de una pagina web usando b4, php y mysql el cual se realizo para una evaluación de la asignatura programaci´´on 2 el cual se realizo en conjunto de Alexis Alcaino, Cristopher Gonzalez, Felipe Salinas y Cristóbal Castro.
+Este es un proyecto  de una pagina web usando b4, php y mysql el cual se realizo para una evaluación de la asignatura programación 2 el cual se realizo en conjunto de Alexis Alcaino, Cristopher Gonzalez, Felipe Salinas y Cristóbal Castro.
 # Tecnologías Utilizadas
 ***
  Lista de las tecnologias utilizadas en este proyecto.
