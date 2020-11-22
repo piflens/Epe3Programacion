@@ -20,11 +20,44 @@ $cierto=mysql_query($query);//incertar
 //preguntar si se inserto el dato
 if(!$cierto){
 
+    echo"<!doctype html>
+<html lang='en'>
+  <head>
+	<title>Title</title>
+	<!-- Required meta tags -->
+	<meta charset='utf-8'>
+	<meta name='viewport' content='width=device-width, initial-scale=1, shrink-to-fit=no'>
+
+	<!-- Bootstrap CSS -->
+	<link rel='stylesheet' href='https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/css/bootstrap.min.css' integrity='sha384-ggOyR0iXCbMQv3Xipma34MD+dH/1fQ784/j6cY/iJTQUOhcWr7x9JvoRxT2MZw1T' crossorigin='anonymous'>
+  </head>
+  <body>
+	  
 
 
 
-  
-	echo"<h1>Error al registrar, usuario ya se encuentra registrado, intente con otro nombre</h1><br>";
+  <div class='modal-dialog  modal-lg modal-dialog-centered'>
+  <div class='modal-content'>
+
+	<!-- cabecera del diálogo -->
+	<div class='modal-header bg-warning'>
+	  <h2 class='modal-title '>Registro Fallido</h2>
+	
+	</div>
+
+	<!-- cuerpo del diálogo -->
+	<div class='modal-body bg-secondary text-white'>
+   <h1>Error al registrar, usuario ya se encuentra registrado, intente con otro nombre</h1><br>
+	</div>
+
+	<!-- pie del diálogo -->
+	<div class='modal-footer bg-warning justify-content-center'>
+	<form method='post' action='login.html'>
+
+	<a href='login.html'><button type='button' class='btn btn-success' data-dismiss='modal'>Volver</button></a>
+	</div>
+</div>
+</div>";
 
 }
 else{
