@@ -95,7 +95,7 @@ echo"<!doctype html>
 	<div class='modal-footer bg-warning justify-content-center'>
 	<form method='post' action='servicios.php'>
 	<button type='submit' id='servicios' name='servicios' class='btn btn-primary' >Servicios registrados</button></form>
-	<a href='registrarServicioadmin.html'><button type='button' class='btn btn-success' data-dismiss='modal'>Volver</button></a>
+	<a href='registrarServicio.html'><button type='button' class='btn btn-success' data-dismiss='modal'>Volver</button></a>
 	</div>
 </div>
 </div>
