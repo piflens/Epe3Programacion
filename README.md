@@ -25,6 +25,8 @@ Dentro de la carpeta epe3 encontrará la página todo se debe de mover a la carp
 
 # Visitenos 
 ***
-* [Pagina Web](https://losmacanudos.000webhostapp.com/index.html)
+Se deja el link de la pagina funcionando en el hosting y un link de youtube de la pagina funcionando en el XAMPP de forma local ya que por el hosting al tener una version de PhP 7 mas actualizado utiliza bien as funciones que estan escritas en PhP 5.
+* [Pagina Web](https://losmacanudos.000webhostapp.com/index.html) Hosting
+* [Youtube]() Mostrando funcionamiento en youtube
 
  
