@@ -5,10 +5,10 @@
 3.[Instalacion]
 # Información General
 ***
-Este es un proyecto  de una pagina web usando b4, php y mysql el cual se realizo para una evaluacion de la asignatura programacion 2 el cual se realizo en conjunto de Alexis Alcaino,Cristopher Gonzalez, Felipe Salinas y Cristóbal Castro.
+Este es un proyecto  de una pagina web usando b4, php y mysql el cual se realizo para una evaluación de la asignatura programaci´´on 2 el cual se realizo en conjunto de Alexis Alcaino, Cristopher Gonzalez, Felipe Salinas y Cristóbal Castro.
 # Tecnologías Utilizadas
 ***
-Aqui va una lista de las tecnologias utilizadas en este proyecto.
+ Lista de las tecnologias utilizadas en este proyecto.
 * [XAMPP](https://sourceforge.net/projects/xampp/files/XAMPP%20Windows/5.6.3/)5.6.3
 * [VISUAL ESTUDIO CODE](https://code.visualstudio.com/)ultima version
 * [PHP]()5.6.3
